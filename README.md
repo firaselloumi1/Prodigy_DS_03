@@ -1,4 +1,4 @@
-# 🌳Task 3 : Decision Tree Classifier Project
+# 🌳 Decision Tree Classifier | Prodigy InfoTech Data Science Internship
 
 ## 📋Project Overview
 This project demonstrates the use of a Decision Tree Classifier to predict a binary outcome (e.g., whether a bank customer will subscribe to a term deposit) based on various customer features. The project is structured to guide the user through data preprocessing, exploratory data analysis, and the development of a predictive model using the Decision Tree algorithm.
